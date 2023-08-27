@@ -1,5 +1,53 @@
 [
     {
+        "title": "FairTransfer",
+        "timestamp": 1693159102,
+        "description": "* https://github.com/1m1-github/FairTransfer",
+        "tags": ["technology"]
+    },
+    {
+        "title": "FairDebate",
+        "timestamp": 1693159103,
+        "description": "* https://github.com/1m1-github/FairDebate",
+        "tags": ["technology"]
+    },
+    {
+        "title": "ShareCoins",
+        "timestamp": 1693159104,
+        "description": "* https://github.com/1m1-github/ShareCoins",
+        "tags": ["technology"]
+    },
+    {
+        "title": "wiki3",
+        "timestamp": 1693159105,
+        "description": "* https://github.com/1m1-github/wiki3",
+        "tags": ["technology"]
+    },
+    {
+        "title": "N-N-cinema",
+        "timestamp": 1693159106,
+        "description": "* https://github.com/1m1-github/N-N-cinema",
+        "tags": ["technology"]
+    },
+    {
+        "title": "FairEnterprise",
+        "timestamp": 1693159101,
+        "description": "* https://github.com/1m1-github/FairEnterprise",
+        "tags": ["technology"]
+    },
+    {
+        "title": "FairBasketball",
+        "timestamp": 1688406838,
+        "description": "* https://github.com/1m1-github/FairBasketball",
+        "tags": ["technology"]
+    },
+    {
+        "title": "itemz",
+        "timestamp": 1683050038,
+        "description": "* a dApp that displays user provided content with user provided design<br>* content is simple JSON with a list of items<br>* each item has a title, description, timestamp and a list of tags<br>* design is a css<br>* https://github.com/1m1-github/itemz",
+        "tags": ["technology"]
+    },
+    {
         "title": "Technical solutions",
         "timestamp": 1690429191,
         "description": "* https://github.com/1m1-github?tab=repositories",
@@ -50,7 +98,7 @@
     {
         "title": "a real solution to solving gun violence in the US",
         "timestamp": 1689125326,
-        "description": "* to solve gun violence, follow Switzerland<br>* licensed access only<br>* mandatory participation in armed forces to protect against tyrannical government<br>* social cohesion<br>* multi period transition: increase penalty for crime committed with unlicensed arms and descreasing value for buyback<br>* spectrum of weapons, optimize threshold of legality<br>* lots of weapons, but only for those in active duty or licensed<br>* license for hunting and sports (any other?)<br>* civilian militia has no chance vs army, army decides who rules",
+        "description": "* to solve gun violence, follow Switzerland<br>* licensed access only<br>* mandatory participation in armed forces to protect against tyrannical government<br>* social cohesion<br>* multi period transition: increase penalty for crime committed with unlicensed arms and descreasing value for buyback<br>* spectrum of weapons, optimize threshold of legality<br>* lots of weapons, but only for those in active duty or licensed<br>* license for hunting and sports (any other?)<br>* civilian militia has no chance vs army, army decides who rules<br>* https://github.com/1m1-github/followCH",
         "tags": ["sociology", "politics", "democracy"]
     },
     {
@@ -536,9 +584,9 @@
         ]
     },
     {
-        "title": "published FairInbox",
+        "title": "next evolution of the inbox: FairInbox",
         "timestamp": 1686635909,
-        "description": "finally published the fairest inbox, respectful of people's time, modern. totally decentralized, etc. https: //fairinbox.io",
+        "description": "* published the fairest inbox, respectful of people's time, modern. totally decentralized, etc. https: //fairinbox.io<br>* https://github.com/1m1-github/FairInbox",
         "tags": [
             "economics",
             "technology",
@@ -558,9 +606,9 @@
         ]
     },
     {
-        "title": "published FairMarket paper",
+        "title": "the fairest market design: FairMarket",
         "timestamp": 1684423476,
-        "description": "my first publication is an economics one (who would have thought). it describes a generalization of markets yielding traditional markets as special cases, using DLTs. you can find it here: https: //zenodo.org/record/7948669",
+        "description": "my first publication is an economics one (who would have thought). it describes a generalization of markets yielding traditional markets as special cases, using DLTs<br>* https://github.com/1m1-github/FairMarket",
         "tags": [
             "economics",
             "publication",
