@@ -1,22 +1,52 @@
 [
     {
+        "title": "Technical solutions",
+        "timestamp": 1690429191,
+        "description": "* https://github.com/1m1-github?tab=repositories",
+        "tags": ["technology"]
+    },
+    {
+        "title": "FairCommunication",
+        "timestamp": 1690429171,
+        "description": "* respectful of recipient's time => async<br>* make own stream of information available<br>* the reicpient, according to it's own complex scheduling in giving access to different sources (of information), decides when to consume the stream<br>* it is a consumer editting model; more efficient to fit arbitrary scheduling<br>* in clearn terms, each recipient should choose a rate of consumption per time period of any stream (rate can be zero), total bandwidth is greater than zero and finit<br>* the ability to reduce the rate acts as quality control on the stream producer<br>* in clearest terms, i am saying, budget your time, listen to some friend an hour a week, another 1 minute a week, etc.<br>* the friend should make available an ever growing stream e.g. by recording vocalized thought which would have been meant for the recipient (and you would have initiated a live call with)<br>* the live call demands immediate time which requires energy<br>* just add to that friends stream or listen from it<br>* using transcription and code",
+        "tags": ["fair", "time", "system", "idea"]
+    },
+    {
+        "title": "",
+        "timestamp": 1690429171,
+        "description": "",
+        "tags": []
+    },
+    {
+        "title": "",
+        "timestamp": 1690429171,
+        "description": "",
+        "tags": []
+    },
+    {
+        "title": "",
+        "timestamp": 1690429171,
+        "description": "",
+        "tags": []
+    },
+    {
         "title": "language is an evolving entity",
         "timestamp": 1689125328,
         "description": "embrace change in language ~ especially increase in efficiency",
         "tags": ["linguitics", "sociology"]
     },
-    {
-        "title": "a real, long term solution to solving the Israel conflict",
-        "timestamp": 1689125327,
-        "description": "to be revealed when world is listening ~ involves maximizing freedom for all ~ say, when 5M listeners reached",
-        "tags": ["geopolitics", "humanrights"]
-    },
-    {
-        "title": "solving the current largest human rights oppression",
-        "timestamp": 1689125329,
-        "description": "to be revealed when world is listening ~ involves maximizing freedom for all ~ say, when 1M listeners reached",
-        "tags": ["sociology", "humanrights"]
-    },
+    // {
+    //     "title": "a real, long term solution to solving the Israel conflict",
+    //     "timestamp": 1689125327,
+    //     "description": "to be revealed when world is listening ~ involves maximizing freedom for all ~ say, when 5M listeners reached",
+    //     "tags": ["geopolitics", "humanrights"]
+    // },
+    // {
+    //     "title": "solving the current largest human rights oppression",
+    //     "timestamp": 1689125329,
+    //     "description": "to be revealed when world is listening ~ involves maximizing freedom for all ~ say, when 1M listeners reached",
+    //     "tags": ["sociology", "humanrights"]
+    // },
     {
         "title": "a real solution to solving gun violence in the US",
         "timestamp": 1689125326,
@@ -32,7 +62,7 @@
     {
         "title": "paradox of wanting increased drug tolerance",
         "timestamp": 1689125324,
-        "description": "",
+        "description": "* in drug culture, users often brag about higher tolerance<br>* benefit of drug use is reduced if bigger tolerance<br>* consuming more to increase tolerance makes benefit harder to achieve => paradox",
         "tags": ["sociology"]
     },
     {
@@ -44,14 +74,14 @@
     {
         "title": "definition of religion",
         "timestamp": 1689125321,
-        "description": "",
-        "tags": []
+        "description": "* both religion and science are philosophies or methodologies to understand God=nature (belief about reality) and derive principles to live by from that understanding<br>* science is the philosophy with the principles: 1. believe only if there is good reason 2. learn=change your belief (if good reason)<br>* religion is static, belief in fixed principles",
+        "tags": ["philosophy", "science", "religion"]
     },
     {
         "title": "education vs indoctrination",
         "timestamp": 1689125322,
-        "description": "",
-        "tags": []
+        "description": "* differing groups would all accuse each other of being indoctrinators vs oneself of being educators<br>* to resolve this: every one (every educator/institution) is labeled an indoctrinator by default<br>* if this entity openly informs its students that other philosophies exist and that students are free to choose their own beliefs, this entity loses the indoctrinator tag and becomes an educator",
+        "tags": ["sociology", "education"]
     },
     {
         "title": "'excuse my French', 'Irish goodbye'",
