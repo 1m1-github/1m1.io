@@ -156,10 +156,20 @@
             "science"
         ]
     },
+        {
+        "title": "wrong: preach only what you practice",
+        "timestamp": 1693589071,
+        "description": "e.g. a smoker should warn others despite not being able to stop",
+        "tags": [
+            "philosophy",
+            "education",
+            "parenting"
+        ]
+    },
     {
         "title": "respectful parenting",
         "timestamp": 1673474905,
-        "description": "<br>* original language subtitles<br>* most rebellious years require most respect => choose your battles wiseful and expect to win less over time<br>* be truthful<br>* explain parent fallibility / 'i don't know'<br>* passion/purpose (self-determined) is needed to be content in life<br>* allow freedom of thought<br>* ontology of relationships: parent = teacher+ friend<br>* rewards and punishments / explaining / wide strong borders<br>* knock before opening any door (simple rule)",
+        "description": "<br>* original language subtitles<br>* most rebellious years require most respect => choose your battles wiseful and expect to win less over time<br>* be truthful<br>* explain parent fallibility / 'i don't know'<br>* passion/purpose (self-determined) is needed to be content in life<br>* allow freedom of thought<br>* ontology of relationships: parent = teacher+ friend<br>* rewards and punishments / explaining / wide strong borders<br>* knock before opening any door (simple rule)<br>* read before signing ~ i made the mistake of skipping t&cs in front of my kids resulting in them learning this dangerous behavior ~ at the time that i did so, i was aware of the mistake however always felt it impractical to read so much just to try out some service ~ use a modern solution such as reading a Learner (e.g. a GPT) assisted summary",
         "tags": [
             "book",
             "philosophy",
