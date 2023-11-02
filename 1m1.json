@@ -1,5 +1,23 @@
 [
     {
+        "title": "won the EthOnline 2023 hackathon",
+        "timestamp": 1698433081,
+        "description": "* <a href=https://github.com/1m1-github/EVMPlus>EVM+</a><br>* solo hacker<br>* largest web3 hackathon ever (at that time)",
+        "tags": ["technology", "math", "Ethereum", "blockchain", "award"]
+    },
+    {
+        "title": "won Best Use Case of Polygon ID at ETHGlobal NYC 2023",
+        "timestamp": 1695581881,
+        "description": "* <a href=https://github.com/1m1-github/wiki3>wiki3</a><br>* this project allows to define social truth<br>* the team submitted it as VibeCheck as we storied it as 'relatability to memes vs veracity of information', amounting to the same",
+        "tags": ["technology", "system", "democracy", "truth", "philosophy", "blockchain", "award", "Ethereum", "Lens", "Polygon"]
+    },
+     {
+        "title": "presented FairPortfolio @ MIT for juliaCon 2023",
+        "timestamp": 1690397881,
+        "description": "* <a href=https://github.com/1m1-github/FairPortfolio>FairPortfolio</a><br>* got to do a poster presentation of my research from around a decade before<br>* MIT is where i always wanted to go, so this was a special experience",
+        "tags": ["math", "finance", "economics", "presentation", "portfolio optimization", "optimization"]
+    },
+    {
         "title": "FairTransfer",
         "timestamp": 1693159102,
         "description": "* https://github.com/1m1-github/FairTransfer",
@@ -297,7 +315,7 @@
         "description": "<br>* 13 months / year, 4 weeks / month, 7 days / week, each day goes from 0 to 100 globally, arbitrary precision<br>* 13 * 4 * 7= 52 * 7 = 364, which leaves an extra, monthless day per year ('new years day')<br>* 13 months allow for regular months, e.g. each 2nd is always a Tuesday, every month and every year<br>* with anyone in the world, agree on a time: 'lets meet at 70.35' ... it is exact, no matter where one is<br>* choose current UTC 00: 00 to be 0<br>* no timezones nor changes thereof needed<br>* massive savings in tech systems and confusions, especially in a increasing globalized and connected world",
         "tags": [
             "sociology",
-            "systems"
+            "system"
         ]
     },
     {
@@ -315,7 +333,7 @@
         "description": "<br>* informing a sender that the email landed in spam<br>* good sender can change communication channel<br>* bad sender still has no avenue to communicate",
         "tags": [
             "technology",
-            "systems"
+            "system"
         ]
     },
     {
@@ -488,7 +506,7 @@
         "description": "<br>* pretty much all adults consume some drugs regularly<br>* most popular are caffeine, alcohol, nicotine, sugar<br>* drugs should be measured along 3 dimensions: addictivity, toxicity, benefit<br>* as humans gain data and education, an optimization amongst the 3 dimensions will change consumption behavior<br>=> alcohol, as one of the most toxic drugs in existence, will become a thing of the past, eventually (bold prediction)<br>* anything consumed daily is an addiction<br>* weekly consumption can become daily consumption, can also be maintained<br>* currently, only LSD provides reliable non-addictive, non-toxic experiences, though not without risk (psychosis from massive intakes and massives intakes are easy due to concentrated highly nature)",
         "tags": [
             "sociology",
-            "psycology"
+            "psychology"
         ]
     },
     {
@@ -731,12 +749,12 @@
     {
         "title": "fully automated trading system",
         "timestamp": 1420070400,
-        "description": "a suite of systems that allocate funds towards to financial markets.<br>Includes:<br>• a system to combine a portfolio of strategies<br>• a portfolio management system to 'optimally' allocate funds amongst and within the strategies<br>• a trade execution ssytem to send trades to various brokers and book keep the positions<br>• automated data input, cleaning, transformation<br>• a robust, N dimensional optimisation algorithm to find optimums in noisy data<br>• a machine learning suite used in some of the strategies<br>result: the system has been running successfully since 2011. tt has achieved good results for its clients and has won several awards. it still runs fully automated, without intervention or change.",
+        "description": "a suite of systems that allocate funds towards to financial markets.<br>Includes:<br>• a system to combine a portfolio of strategies<br>• a portfolio management system to 'optimally' allocate funds amongst and within the strategies<br>• a trade execution ssytem to send trades to various brokers and book keep the positions<br>• automated data input, cleaning, transformation<br>• a robust, N dimensional optimization algorithm to find optimums in noisy data<br>• a machine learning suite used in some of the strategies<br>result: the system has been running successfully since 2011. tt has achieved good results for its clients and has won several awards. it still runs fully automated, without intervention or change.",
         "tags": [
-            "portfolio optimisation",
+            "portfolio optimization",
             "julia",
             "trading",
-            "optimisation",
+            "optimization",
             "ML",
             "AI",
             "award",
@@ -774,7 +792,7 @@
         "tags": [
             "Matlab",
             "trading",
-            "portfolio optimisation",
+            "portfolio optimization",
             "finance",
             "cv"
         ]
@@ -797,11 +815,11 @@
     {
         "title": "novel model for portfolio optimization with significant performance improvement",
         "timestamp": 1338508800,
-        "description": "first i implemented around 10 different models for portfolio optimisation found in white papers and compared their 'quality'. the quality was based on backtested performance of a portfolio of alpha generating strategies. i then formulated a novel model for portfolio optimisation. this model was simpler than any that I had found and the 'quality' was significantly higher as well. this model has been the basis of multiple successful trading strategies since. i am working on the publication here: https: //github.com/1m1-github/FairPortfolio.jl",
+        "description": "first i implemented around 10 different models for portfolio optimization found in white papers and compared their 'quality'. the quality was based on backtested performance of a portfolio of alpha generating strategies. i then formulated a novel model for portfolio optimization. this model was simpler than any that I had found and the 'quality' was significantly higher as well. this model has been the basis of multiple successful trading strategies since. i am working on the publication here: https: //github.com/1m1-github/FairPortfolio.jl",
         "tags": [
             "research",
             "math",
-            "portfolio optimisation",
+            "portfolio optimization",
             "finance",
             "cv"
         ]
