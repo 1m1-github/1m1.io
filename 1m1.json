@@ -1,9 +1,21 @@
 [
     {
+        "title": "created AsyncDAOProxy",
+        "timestamp": 1709479372,
+        "description": "* <a href=https://github.com/1m1-github/AsyncDAOProxy>github</a>",
+        "tags": ["technology", "DAO", "EVM", "Ethereum", "blockchain", "economics", "governance"]
+    },
+    {
+        "title": "spoke at EthDenver 2024 ~ EIP-7543 decimal math for EVM",
+        "timestamp": 1708688100,
+        "description": "* <a href=https://youtu.be/ETc0GZ03k6I?si=r9SsZEomGPzO5yLU>talk</a>",
+        "tags": ["technology", "math", "EVM", "Ethereum", "blockchain", "speech"]
+    },
+    {
         "title": "won the EthOnline 2023 hackathon",
         "timestamp": 1698433081,
         "description": "* <a href=https://github.com/1m1-github/EVMPlus>EVM+</a><br>* solo hacker<br>* largest web3 hackathon ever (at that time)",
-        "tags": ["technology", "math", "Ethereum", "blockchain", "award"]
+        "tags": ["technology", "math", "EVM", "Ethereum", "blockchain", "award"]
     },
     {
         "title": "won Best Use Case of Polygon ID at ETHGlobal NYC 2023",
