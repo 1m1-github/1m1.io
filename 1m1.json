@@ -6,7 +6,7 @@
         "tags": ["technology", "DAO", "EVM", "Ethereum", "blockchain", "economics", "governance"]
     },
     {
-        "title": "spoke at EthDenver 2024 ~ EIP-7543 decimal math for EVM",
+        "title": "spoke at EthDenver 2024 ~ EIP-7543 arbitrary precision decimal math for EVM",
         "timestamp": 1708688100,
         "description": "* <a href=https://youtu.be/ETc0GZ03k6I?si=r9SsZEomGPzO5yLU>talk</a>",
         "tags": ["technology", "math", "EVM", "Ethereum", "blockchain", "speech"]
