@@ -1,5 +1,17 @@
 [
     {
+        "title": "define complexity",
+        "timestamp": 1721232014,
+        "description": "* define complexity of any arbitrary information as the minimal number of gates needed to replicate the information as a boolean circuit<br>* all information can be considered a function that transforms input information into output information<br>* any function can be represented as a boolean circuit",
+        "tags": ["philosophy", "information"]
+    },
+    {
+        "title": "'one sides' terrorist is another sides' soldier' <- wrong",
+        "timestamp": 1721232015,
+        "description": "* terrorism is the purposeful attack on random people<br>* an attack targeting specific people because of what they did is not terroristic<br>* this concept is not symmetric",
+        "tags": ["philosophy", "sociology"]
+    },
+    {
         "title": "created AsyncDAOProxy",
         "timestamp": 1709479372,
         "description": "* <a href=https://github.com/1m1-github/AsyncDAOProxy>github</a>",
@@ -552,7 +564,7 @@
     {
         "title": "correct solution to the pronoun problem: it",
         "timestamp": 1673474948,
-        "description": "<br>* according to gender theory, an arbitrary number of genders could exist (although the best case is to have exactly 1, i.e. no genders => utopia)<br>* to accomodate all genders, in theory, a language, e.g. English, would require an ever increasing number of pronouns, increasingly adding complexity to the language<br>* an easy solution to satisfy all sides is to collapse all pronouns into a singular gender-less pronoun: singular it, plural they<br>* several languages in the world have no gendered pronouns, without losing any expressivity<br>* in most communications, gender is irrelevant ~ if needed, can always be added => there is no need for gendered pronouns<br>* everyone can feel equally respected with the same pronoun<br>* single pronoun matches the idealistic goal of having a single gender, i.e. no implicit nor explicit differing rules for any groups not individuals in society<br>* Swedish recently introduced such a single pronoun => very doable",
+        "description": "<br>* according to gender theory, an arbitrary number of genders could exist (although the best case is to have exactly 1, i.e. no genders => utopia)<br>* to accomodate all genders, in theory, a language, e.g. English, would require an ever increasing number of pronouns, increasingly adding  to the language<br>* an easy solution to satisfy all sides is to collapse all pronouns into a singular gender-less pronoun: singular it, plural they<br>* several languages in the world have no gendered pronouns, without losing any expressivity<br>* in most communications, gender is irrelevant ~ if needed, can always be added => there is no need for gendered pronouns<br>* everyone can feel equally respected with the same pronoun<br>* single pronoun matches the idealistic goal of having a single gender, i.e. no implicit nor explicit differing rules for any groups not individuals in society<br>* Swedish recently introduced such a single pronoun => very doable",
         "tags": [
             "sociology",
             "gender"
